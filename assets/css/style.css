@@ -1,0 +1,17 @@
+* body {
+
+    background-color: black;
+    color: white;
+}
+
+footer a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: white;
+  }
+  .nav{
+      color: white !important;
+  }
+  .linea{
+      border: 1px solid ;
+  }
