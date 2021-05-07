@@ -14,5 +14,11 @@ footer a{
   }
   .linea{
       border: 1px solid ;
+      color: aqua;
   }
- 
+  @media (max-width: 576px) { 
+
+    .quienesSomos{
+        display: none;
+    }
+   }
