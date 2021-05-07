@@ -6,20 +6,23 @@
 }
 
 footer a{
-    color: #ffffff;
-    text-decoration: none;
+   /*  color: #ffffff;
+    text-decoration: none; */
     background-color: white;
   }
-  .nav{
+  /* .nav{
       color: white !important;
-  }
+  } */
+  /* Me genera la lina de separación de secciones */
   .linea{
       border: 1px solid ;
       color: aqua;
   }
+  /* Lo que hace que la sección de quienes somos se oculte cuando la pantalla es un smartphone */
   @media (max-width: 576px) { 
 
     .quienesSomos{
         display: none;
     }
    }
+  
